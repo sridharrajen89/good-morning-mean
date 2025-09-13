@@ -1,0 +1,23 @@
+{
+  "name": "good-morning",
+  "version": "1.0.0",
+  "description": "\"# good-morning-mean\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sridharrajen89/good-morning-mean.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sridharrajen89/good-morning-mean/issues"
+  },
+  "homepage": "https://github.com/sridharrajen89/good-morning-mean#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
